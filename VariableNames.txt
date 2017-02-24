@@ -1,0 +1,7 @@
+BeerConsumption - Beer consumption (%)
+WineConsumption - Wineconsumption (%)
+SpiritsConsumption - Spirits consumption (%)
+OtherConsumption - Other alcohol consumption (%)
+AlcoholConsumptionRecorded - Recorded alcohol consumption (in litres of pure alcohol)
+AlcoholConsumptionByTurist - Alcohol consumption by tourist (in litres of pure alcohol)
+AlcoholConsumptionUnrecorded - Unrecorded alcohol consumption (in litres of pure alcohol)
